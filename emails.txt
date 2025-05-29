@@ -1,0 +1,3 @@
+ivan.petrov@example.com
+backup.email@domain.org
+support@company.ru
